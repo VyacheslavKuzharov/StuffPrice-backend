@@ -1,0 +1,77 @@
+[
+  {
+    "id":"1",
+    "user_id":"1",
+    "title":"20 Foot Equipment Trailer",
+    "description":"2013 rainbow trailer 20 feet x 82 inch deck area, two 5,000 lb axels, electric brakes, two pull out ramps, break away box, spare tire.",
+    "price":6000,
+    "categories":[
+      "Vehicles",
+      "Parts and Accessories"
+    ],
+    "image": "http://www.louisianasportsman.com/classifieds/pics/p1358549934434943.jpg",
+    "views":213
+  },
+  {
+    "id":"2",
+    "user_id":"1",
+    "title":"Canada Goose Jacket",
+    "description":"Red woman's Canada Goose Montebello jacket. It was used for two seasons. This jacket retails for $745. The jacket has been professionally cleaned since it was last worn by anyone.",
+    "price": 500,
+    "categories": [
+      "Clothing"
+    ],
+    "image":"http://canadagoose-jacket.weebly.com/uploads/9/2/3/3/9233177/9087323_orig.jpg",
+    "views": 422
+  },
+  {
+    "id":"3",
+    "user_id":"2",
+    "title":"Baby Crib and Matress",
+    "description":"product condition.",
+    "price":50,
+    "categories":[
+      "Furniture"
+    ],
+    "image":"http://images.landofnod.com/is/image/LandOfNod/Crib_Anderson_Nat_V1/$web_setitem$/1308310657/andersen-crib-maple.jpg",
+    "views":23
+  },
+  {
+    "id":"4",
+    "user_id":"2",
+    "title":"Leather Sofa",
+    "description":"Brown leather sofa for sale.  product condition but small tear on one cushion.",
+    "price":250,
+    "categories":[
+      "Furniture"
+    ],
+    "image":"http://tesco.scene7.com/is/image/tesco/211-8025_PI_TPS1996403?id=mCabm0&fmt=jpg&fit=constrain,1&wid=480&hei=480",
+    "views":77
+  },
+  {
+    "id":"5",
+    "user_id":"1",
+    "title":"MacBook Air",
+    "description":"2013 MacBook Air. Great condition, but a few scratches.",
+    "price":1150,
+    "categories":[
+      "Electronics",
+      "Computer Parts and Accessories"
+    ],
+    "image":"http://cdn.macrumors.com/article-new/2014/11/macbook_air_yosemite-800x450.jpg?retina",
+    "views":889
+  },
+  {
+    "id":"6",
+    "user_id":"2",
+    "title":"2008 Dodge Caliber",
+    "description":"Battery blanket and block heater installed. Winter tires, product tread left are on the car currently. Car comes with 4 summer tires with also product treads left. Hydraulic power steering fluid line installed so this won't break on you in the cold Yellowknife winters! Synthetic oil used, product for 1000+ more KMs. AC/Sunroof/power doors/steering, CD player/radio. Red accented dash and upolstry.",
+    "price":4800,
+    "categories":[
+      "Vehicles",
+      "Cars"
+    ],
+    "image":"http://images.buysellsearch.com/image/orig/8dfc4f6c5d411130d19dedd28d61bc2b/2009-dodge-caliber-se.jpg",
+    "views":423
+  }
+]
