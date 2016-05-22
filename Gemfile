@@ -42,5 +42,12 @@ group :development do
   gem 'spring'
 end
 
-gem 'rails_12factor'
+group :production do
+  gem 'rails_12factor'
+end
+
+
+
 gem 'devise'
+gem 'kaminari'
+gem 'rack-cors', :require => 'rack/cors'
