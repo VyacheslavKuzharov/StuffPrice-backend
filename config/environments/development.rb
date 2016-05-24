@@ -36,10 +36,13 @@ Rails.application.configure do
   # Raises helpful error messages.
   config.assets.raise_runtime_errors = true
 
-  config.middleware.insert_before 0, "Rack::Cors" do
+  config.middleware.insert_before 0, 'Rack::Cors' do
     allow do
-      origins '*'
-      resource '*', :headers => :any, :methods => [:get, :post, :delete, :put, :head]
+      origins 'localhost:8080'
+
+      resource '*',
+               :headers => :any,
+               :methods => [:get, :post, :delete, :put, :head]
     end
   end
 
