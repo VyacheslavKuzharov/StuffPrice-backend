@@ -1,5 +1,7 @@
 class Api::ProductsController < ApplicationController
 
+  before_filter :verify_jwt_token, only: [:create, :update, :destroy]
+
   def index
     products = Product.all.order(created_at: :desc)
     products = products.page(params[:page]).per(20)
